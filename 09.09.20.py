@@ -11,3 +11,4 @@ print("среднее арифметическое - ",p,"\nразность - "
 
 
 #изменение для урока git 
+#18.09.2020 wsdfvgbhnjmk,l.sdfvgbhnjmkawsedrfghjnsxdcfvgbhnj
